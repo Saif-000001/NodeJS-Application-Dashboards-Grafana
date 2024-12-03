@@ -1,0 +1,19 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "prom-client": "^11.5.3",
+    "response-time": "^2.3.3",
+    "winston": "^3.17.0",
+    "winston-loki": "^6.1.3"
+  }
+}
